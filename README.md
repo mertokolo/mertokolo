@@ -5,7 +5,7 @@
 <h1 align="center">Hello, my friend, come to my side, I'm Mertokolo</h1> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Verdana&color=%23F70000&size=25&center=true&vCenter=true&lines=Designer;Game+Desinger;Photomontagist;Video+ Editor;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Verdana&color=%23F70000&size=25&center=true&vCenter=true&lines=Designer;Game+Desinger;Photomontagist;Video+ Editor">
 </p>
 <hr/>
 <h4 align="center">I'm doing nothing mate.</h4>
