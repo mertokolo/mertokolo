@@ -29,17 +29,3 @@
     <p></p>
 </details>
 <!-- Stats:END -->
-  
-<!-- YOUTUBE:START -->
-<!-- ## 📺 Some Videos From My YouTube Channel
-<table align="center">
-  <tbody>
-    <tr><td><a href="https://youtu.be/Jt3hvpU0YvI"><img width="140px" src="https://i.ytimg.com/vi/Jt3hvpU0YvI/mqdefault.jpg"></a></td>
-    <td><a href="https://youtu.be/Jt3hvpU0YvI">Responsive Image Gallery with Lightbox | HTML and Bootstrap 4</a><br/>28 Apr 2021</td></tr>
-    <tr><td><a href="https://youtu.be/aBL3HUtt_mY"><img width="140px" src="https://i.ytimg.com/vi/aBL3HUtt_mY/mqdefault.jpg"></a></td>
-    <td><a href="https://youtu.be/aBL3HUtt_mY">Animated Profile Card | HTML CSS JavaScript</a><br/>3 Jan 2021</td></tr>    
-    <tr><td><a href="https://youtu.be/ZAHOLdKYJCI"><img width="140px" src="https://i.ytimg.com/vi/ZAHOLdKYJCI/mqdefault.jpg"></a></td>
-    <td><a href="https://youtu.be/ZAHOLdKYJCI">Draggable List or Drag & Drop List | HTML CSS JavaScript</a><br/>28 Nov 2020</td></tr>
-  </tbody>
-</table> -->
-<!-- YOUTUBE:END -->
