@@ -5,7 +5,7 @@
 <h1 align="center">Hello, my friend, come to my side, I'm Mertokolo</h1> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Verdana&color=%23F70000&size=25&center=true&vCenter=true&lines=Designer;Game+Desinger;Photomontagist;Video+ Editor">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&pause=1000&color=36F700&background=FF008D00&center=true&vCenter=true&width=500&lines=Game+Desinger;Designer;Photomontagist;Video+Editor" alt="Typing SVG" /></a>
 </p>
 <hr/>
 <h4 align="center">I'm doing nothing mate.</h4>
