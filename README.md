@@ -1,6 +1,6 @@
 <p align="center">
 
-<img align-item="center" src="https://media.giphy.com/media/G3Hu8RMcnHZA2JK6x1/giphy.gif" width="55%" height="55%" class="giphy-embed">
+<img align-item="center" src="https://media.giphy.com/media/Id6dC0GQOOzPMXgcPv/giphy.gif" width="60%" height="60%" class="giphy-embed">
 <p>
 <h1 align="center">Hello, my friend, come to my side, I'm Mertokolo</h1> 
 
