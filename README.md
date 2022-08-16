@@ -9,7 +9,7 @@
 </p>
 <hr/>
 <br>
-<!-- Connect with Me:START -->
+
 
 ## &nbsp;Connect with Me 
 <p align="center">
@@ -17,13 +17,13 @@
 <a href="https://www.linkedin.com/in/mustafa-mert-g%C3%B6kdeniz-97892b219/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 </p>
 <br>
-<!-- Connect with Me:END -->
-
-<!-- Stats:START -->
+<p align="center">
+<img align-item="center" src="https://media.giphy.com/media/chICfOgH8ib16/giphy.gif" width="40%" height="40%" class="giphy-embed">
+<p>
 <details>
   <summary><b>GitHub Stats</b></summary> 
   <br>
     <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mertokolo&theme=algolia" alt="mertokolo"  /></p>
     <p></p>
 </details>
-<!-- Stats:END -->
+
