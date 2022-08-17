@@ -9,7 +9,12 @@
 </p>
 <hr/>
 <br>
-
+<h1 align="center">About Myself</h1>
+<br>
+<h2 align="center">Welcome to my page. Let me tell you a little about myself.
+<br>
+My name is Mert, I'm someone who wants to develop games. And that's it.</h2>
+<br>
 
 ## &nbsp;Connect with Me 
 <p align="center">
