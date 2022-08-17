@@ -15,6 +15,10 @@
 <br>
 My name is Mert, I'm someone who wants to develop games. And that's it.</h2>
 <br>
+<p align="center">
+<img align-item="center" src="https://media.giphy.com/media/RLK2SQ1cndlTd4oA7l/giphy.gif" width="50%" height="50%" class="giphy-embed">
+ </p>
+<br>
 
 ## &nbsp;Connect with Me 
 <p align="center">
