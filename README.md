@@ -33,6 +33,6 @@ My name is Mert, I'm someone who wants to develop games. And that's it.</h2>
   <summary><b>GitHub Stats</b></summary> 
   <br>
     <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mertokolo&theme=algolia" alt="mertokolo"  /></p>
-    <p></p>
+    <p></p> 
 </details>
 
