@@ -4,7 +4,7 @@
 <p> 
 <h1 align="center">Hello mate, I'm Mert, come to my side</h1>  
 
-<p align="center">
+<p align="center"> 
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&pause=1000&color=36F700&background=FF008D00&center=true&vCenter=true&width=500&lines=Game+Desinger;Designer;Photomontagist;Video+Editor" alt="Typing SVG" /></a> 
 </p>
 <hr/> 
