@@ -28,7 +28,7 @@ My name is Mert, I'm someone who wants to develop games. And that's it.</h2>
 <br>
 <p align="center">
 <img align-item="center" src="https://media.giphy.com/media/chICfOgH8ib16/giphy.gif" width="40%" height="40%" class="giphy-embed">
-<p> 
+<p>  
 <details> 
   <summary><b>GitHub Stats</b></summary> 
   <br>
