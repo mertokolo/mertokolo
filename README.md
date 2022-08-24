@@ -1,14 +1,14 @@
-<p align="center"> 
-  
+<p align="center">
+
 <img align-item="center" src="https://media.giphy.com/media/iH0f2FRLJSiAKbmfGZ/giphy.gif" width="60%" height="60%" class="giphy-embed">
 <p>  
-<h1 align="center">Hello mate, I'm Mert, come to my side</h1>   
-  
+<h1 align="center">Hello mate, I'm Mert, come to my side</h1>
+ 
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&pause=1000&color=36F700&background=FF008D00&center=true&vCenter=true&width=500&lines=Game+Desinger;Designer;Photomontagist;Video+Editor" alt="Typing SVG" /></a> 
-</p> 
-<hr/> 
-<br> 
+</p>
+<hr/>
+<br>
 <h1 align="center">About Myself</h1>
 <br>
 <h2 align="center">Welcome to my page. Let me tell you a little about myself.
@@ -18,7 +18,7 @@ My name is Mert, I'm someone who wants to develop games. And that's it.</h2>
 <p align="center">
 <img align-item="center" src="https://media.giphy.com/media/RLK2SQ1cndlTd4oA7l/giphy.gif" width="50%" height="50%" class="giphy-embed">
  </p>
-<br> 
+<br>
 
 ## &nbsp;Connect with Me 
 <p align="center">
