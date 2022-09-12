@@ -1,7 +1,7 @@
 <h1 align="center">Hello mate, I'm Mert, come to my side</h1>
 <p align="center">
 
-<img align-item="center" src="https://media.giphy.com/media/G0p0eHJf39jIT3FJG9/giphy.gif" width="60%" height="60%" class="giphy-embed">
+<img align-item="center" src="https://media.giphy.com/media/G0p0eHJf39jIT3FJG9/giphy.gif" width="55%" height="55%" class="giphy-embed">
 <p>  
  
 <p align="center">
