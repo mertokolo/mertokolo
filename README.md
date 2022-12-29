@@ -19,8 +19,6 @@ My name is Mert, I'm someone who wants to develop games. And that's it.</h2>
 <img align-item="center" src="https://media.giphy.com/media/RLK2SQ1cndlTd4oA7l/giphy.gif" width="50%" height="50%" class="giphy-embed">
  </p>
 <br>
-
-## &nbsp;Connect with Me 
 <p align="center">
 <br>
 <a href="https://www.linkedin.com/in/mustafa-mert-g%C3%B6kdeniz-97892b219/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
